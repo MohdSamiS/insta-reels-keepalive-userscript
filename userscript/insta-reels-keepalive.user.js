@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Instagram Keep Reels Playing (Robust, Fixed v1.5)
 // @namespace    https://github.com/MohdSamiS
-// @version      1.5
+// @version      1.05
 // @description  Prevent Instagram Reels from pausing on tab switch, allow user/manual pauses and offscreen pauses.
 // @description  Research script for testing visibility APIs. Not for automation or ToS-violating use.
 // @author       Mohammed Sami
